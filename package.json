@@ -1,5 +1,5 @@
 {
-  "name": "outstatic-cms",
+  "name": "main-deknoinarak-com-outstatic-cms",
   "private": true,
   "scripts": {
     "dev": "next dev",
