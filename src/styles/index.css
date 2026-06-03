@@ -3,6 +3,7 @@
 @import "tailwindcss";
 
 body,
-html {
+html,
+.ProseMirror p {
   font-family: "Google Sans", sans-serif !important;
 }
