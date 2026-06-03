@@ -1,0 +1,22 @@
+{
+  "commit": "",
+  "generated": "2026-06-03T10:08:44.330Z",
+  "metadata": [
+    {
+      "__outstatic": {
+        "commit": "",
+        "hash": "2738562998",
+        "path": "outstatic/content/_singletons/home.mdx"
+      },
+      "author": {
+        "name": "Nonthapat Jamjai",
+        "picture": "https://avatars.githubusercontent.com/u/60281096?v=4"
+      },
+      "collection": "_singletons",
+      "publishedAt": "2026-06-03T10:49:58.730Z",
+      "slug": "home",
+      "status": "published",
+      "title": "Home"
+    }
+  ]
+}
