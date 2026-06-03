@@ -1,11 +1,11 @@
 {
-  "commit": "cc0b4b9785eacc0bbc82123820b21545594d5660",
-  "generated": "2026-06-03T10:22:03.443Z",
+  "commit": "41c57a68a953adfd9a9ce3ad898108b46f9493de",
+  "generated": "2026-06-03T10:24:10.094Z",
   "metadata": [
     {
       "__outstatic": {
-        "commit": "cc0b4b9785eacc0bbc82123820b21545594d5660",
-        "hash": "2536873084",
+        "commit": "41c57a68a953adfd9a9ce3ad898108b46f9493de",
+        "hash": "1615848621",
         "path": "outstatic/content/_singletons/home.mdx"
       },
       "author": {
